@@ -91,7 +91,8 @@ La clase UI es la que tiene las gestion de ventanas y el main.
 Cada una de las ventanas aplica a un despliegue para la misma y estas en total son 4 ventanas separadas para modificar.
 El Main sirve para ejecutar el proyecto completo.
 
-Aplicacion funciona vinculando la información a una base de datos SQL
+Aplicacion funciona vinculando la información a una base de datos SQL.
+Se agrega la Query indicada en solicitud y modificada en BD.
 
 ---
 
